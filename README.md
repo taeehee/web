@@ -13,4 +13,4 @@ https://taeehee.github.io/web/06_모서리곡선.html
 
 https://taeehee.github.io/web/07_테두리.html
 
-https://taeehee.github.io/web/ 08_피그마예제1.html
+https://taeehee.github.io/web/08_피그마예제1.html
